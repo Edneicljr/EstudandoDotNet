@@ -1,0 +1,14 @@
+C:\git\DigitalInovationOne\bin\Debug\netcoreapp3.1\DigitalInovationOne.exe
+C:\git\DigitalInovationOne\bin\Debug\netcoreapp3.1\DigitalInovationOne.deps.json
+C:\git\DigitalInovationOne\bin\Debug\netcoreapp3.1\DigitalInovationOne.runtimeconfig.json
+C:\git\DigitalInovationOne\bin\Debug\netcoreapp3.1\DigitalInovationOne.runtimeconfig.dev.json
+C:\git\DigitalInovationOne\bin\Debug\netcoreapp3.1\DigitalInovationOne.dll
+C:\git\DigitalInovationOne\bin\Debug\netcoreapp3.1\DigitalInovationOne.pdb
+C:\git\DigitalInovationOne\obj\Debug\netcoreapp3.1\DigitalInovationOne.AssemblyInfoInputs.cache
+C:\git\DigitalInovationOne\obj\Debug\netcoreapp3.1\DigitalInovationOne.AssemblyInfo.cs
+C:\git\DigitalInovationOne\obj\Debug\netcoreapp3.1\DigitalInovationOne.csproj.CoreCompileInputs.cache
+C:\git\DigitalInovationOne\obj\Debug\netcoreapp3.1\DigitalInovationOne.dll
+C:\git\DigitalInovationOne\obj\Debug\netcoreapp3.1\DigitalInovationOne.pdb
+C:\git\DigitalInovationOne\obj\Debug\netcoreapp3.1\DigitalInovationOne.genruntimeconfig.cache
+C:\git\DigitalInovationOne\obj\Debug\netcoreapp3.1\DigitalInovationOne.csproj.AssemblyReference.cache
+C:\git\DigitalInovationOne\obj\Debug\netcoreapp3.1\DigitalInovationOne.GeneratedMSBuildEditorConfig.editorconfig
